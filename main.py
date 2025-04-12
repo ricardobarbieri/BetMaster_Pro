@@ -588,7 +588,7 @@ class FootballAnalysisGUI:
 def main():
     """Função principal."""
     logging.info("Iniciando aplicação...")
-    api_key = "live_8a4d7e4aa5b0a67144fbca07c6dd01"
+    api_key = "live_8a4d7e4aa5b0a67144xxxxxxxxxx1"  #your API here
     app = FootballAnalysisGUI(api_key=api_key)
     app.run()
 
